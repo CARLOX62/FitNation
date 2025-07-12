@@ -9,7 +9,7 @@ FitNation is a health-focused web application built with **Flask** and **Machine
 
 ## 🚀 Live Demo
 
-🎯 **Live URL:** (http://127.0.0.1:5000/)  
+🎯 **Live URL:** (https://fitnation-lzjc.onrender.com)  
 
 
 ---
